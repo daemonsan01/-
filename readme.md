@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/pwTrDSR/image.jpg" alt="banner">
+<img src="https://pin.it/1VI4x8hRD" alt="banner">
 <h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 🔵ᎠᏘᏋMIᏁ-ᏰᎧᏖ➪💰☢🔴</h>
 
 
